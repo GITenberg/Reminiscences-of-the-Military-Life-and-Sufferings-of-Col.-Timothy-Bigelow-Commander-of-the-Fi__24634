@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26636'
     url: http://www.gutenberg.org/2009/agents/26636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24634#Reminiscences-of-the-Military-Life-and-Sufferings-of-Col.-Timothy-Bigelow-Commander-of-the-Fi_
 gutenberg_issued: '2008-02-18'
 gutenberg_type: Text
 identifiers:
