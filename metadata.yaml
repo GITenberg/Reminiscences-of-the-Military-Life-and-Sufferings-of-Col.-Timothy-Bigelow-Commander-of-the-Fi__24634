@@ -1,0 +1,30 @@
+_repo: Reminiscences-of-the-Military-Life-and-Sufferings-of-Col.-Timothy-Bigelow-Commander-of-the-Fi__24634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hersey, Charles
+    gutenberg_agent_id: '26636'
+    url: http://www.gutenberg.org/2009/agents/26636
+description: ''
+gutenberg_issued: '2008-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24634'
+  lccn: '10030637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcc 'CT'
+- !lcsh 'United States. Continental Army -- Military life'
+- !lcc 'E201'
+- !lcsh 'Bigelow, Timothy, 1739-1790'
+title: Reminiscences of the Military Life and Sufferings of Col. Timothy Bigelow,
+  Commander of the Fifteenth Regiment of the Massachusetts Line in the Continental
+  Army, during the War of the Revolution
+url: http://www.gutenberg.org/ebooks/24634
